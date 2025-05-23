@@ -63,6 +63,11 @@ int diameter(Node* root) {
     return ans;
 }
 
+//Approach 2
+
+//Count Leaf
+//Leaf Sum
+
 int main()
 {
     Node *root = NULL;
